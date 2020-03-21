@@ -1,0 +1,6 @@
+"Cherrysmod"
+{
+    "title"     "Cherry's Mod"
+    "base"      "sandbox"
+    "menusystem" "1"
+}
